@@ -2,9 +2,6 @@
 
 # متجر || Matgar
 
-<img width="2430" height="1760" alt="Gemini_Generated_Image_ge5rnige5rnige5r" src="https://github.com/user-attachments/assets/089407f4-3e13-41d7-9a1e-db066beaa0c4" />
-
-
 
 ### The E-Commerce Builder for Arab Merchants
 
